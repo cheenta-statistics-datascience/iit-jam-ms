@@ -1,5 +1,9 @@
-# Solution: IIT JAM MS 2025 Problem 16 (MCQ2)
-## Answer: (C)
+### Solution: IIT JAM MS 2025 Problem 16 (MCQ2)
+#### Answer: (C) by [Cheenta School of Statistics and Data Science](https://www.cheenta.com/cheenta-statistics-coaching-msc/)
+
+-----
+* [2025 IIT JAM MS Paper](https://drive.google.com/file/d/1lI9Dwthnycrx31mcVLDZoi3ERYe3jm4m/view?usp=sharing)
+-----
 
 Part (I) - True
 * Let's assume that $A$ is singular. This means $A$ has an eigenvalue 0. Now comes the main part.
@@ -13,3 +17,4 @@ Part (II) - True
 * $f(0) = 0 \implies f(x) = xg(x)$ for some polynomial $g(x)$. Therefore, $f(A) = Ag(A)$.
 * Given that $f(A) = 0 \implies Ag(A) = 0 \implies det(Ag(A)) = 0 \implies det(A) = 0$, since determinant function is multiplicative.
 * Hence (II) is true, because zero determinant implies singular matrix.
+
